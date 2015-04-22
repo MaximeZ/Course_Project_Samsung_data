@@ -1,1 +1,2 @@
-Variables were selected
+
+reading names of variables and selecting those corresponding to mean and standard deviationtransforming the names  into a readable formatfinding numbers of columns of mean and std variables to select them further from numeric tablesTrain samplereading measuremnt data, numbers of subjects and numbers corresponding to activitiestransforming activities from numeric to descriptive text formatbinding resulting tables into the single oneCombining test and train samplesGrouping data by Subject and Activity and computing averages for each subject-activity pairWriting data into text file
