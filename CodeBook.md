@@ -15,9 +15,9 @@ The obtained dataset has been randomly partitioned into two sets, where 70% of t
 
 Each measurement is reported with various statistical characteristics, such as mean, standard deviation, kurtosis etc. All in all there are 561 variables.
 
-In order to perform analysis two subsets have been merged and  to get the data more succinct only mean and standard deviation for each variable  have been selected (with some exceptions). In all sixty four variables constitute new sample. Two additional variables indicate consiquently the number of a particular subject and her/his performed activities. The names of new variables have also been transformed. For example fBodyAcc-mean()-X turns to MeanOfBodyAccAlongDimXInFreqDomain.
+In order to perform analysis two subsets have been merged and  to get the data more succinct only mean and standard deviation for each variable  have been selected (with some exceptions). Thus sixty four variables constitute new sample. Two additional variables indicate consiquently the number of a particular subject and her/his performed activities. The names of new variables have also been transformed. For example fBodyAcc-mean()-X turns to MeanOfBodyAccAlongDimXInFreqDomain.
 
-In the final step the data were grouped by subjects and activities. For each type of activity performed by each individual the average values of all the variables have been computed (not to make the variables names more clumsy thier names from the previous step have been preserved). Final set contains 180 rows and 66 columns.
+In the final step the data were grouped by subjects and activities. For each type of activity performed by each individual the average values of Means and Standard deviations have been computed (not to make the variables names more clumsy thier names from the previous step have been preserved). Final set contains 180 rows and 66 columns.
 
 
 
